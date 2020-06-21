@@ -1,9 +1,9 @@
 # Wrangle and Analyze Data
-Udacity Data Analyst December 2017 - May 2018. 
+Udacity Data Analyst June 21, 2020
+
+by Junth Basnet
 
 Project 7: Wrangle and Analyze Data - WeRateDogs twitter account
-
-[Click to preview report](https://cdn.rawgit.com/latinacode/Wrangle-and-Analyze-Data/f3a9b664/act_report.pdf)
 
 # Project Overview
 ## Introduction
@@ -11,7 +11,7 @@ The dataset that I will be wrangling (and analyzing and visualizing) is the twee
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. 
 
-## What Software Do I Need?
+## Installation Dependencies
 
 - You need to be able to work in a Jupyter Notebook on your computer. P
 - The following packages (libraries) need to be installed. You can install these packages via conda or pip. Please revisit our Anaconda tutorial earlier in the Nanodegree program for package installation instructions.
